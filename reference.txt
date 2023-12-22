@@ -1,0 +1,9 @@
+https://girolamopinto1.medium.com/emotion-detection-in-python-8642fade50a9
+
+https://github.com/atulapra/Emotion-detection
+
+https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
+
+https://www.kaggle.com/code/odins0n/emotion-detection
+
+https://www.kaggle.com/code/aayushmishra1512/emotion-detector
